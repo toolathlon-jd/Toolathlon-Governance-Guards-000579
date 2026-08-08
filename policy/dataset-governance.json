@@ -1,0 +1,14 @@
+{
+  "policy_version": "2026.08",
+  "candidate_label": "governance-request",
+  "required_severity_label": "severity:critical",
+  "section": {
+    "heading": "Dataset Governance",
+    "fields": {
+      "Accountable Team": "Release Governance",
+      "Review Cadence": "Every 12 months",
+      "Escalation Route": "Open a governance-request issue"
+    }
+  },
+  "created_before": "2026-08-08T21:04:14.456248Z"
+}
